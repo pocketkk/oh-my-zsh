@@ -50,4 +50,4 @@ else
     source "$ZSH/themes/$ZSH_THEME.zsh-theme"
   fi
 fi
-
+unsetopt correct_all
